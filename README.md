@@ -1,1 +1,2 @@
 # alien_invasion
+根据python从入门到实践编写的飞机大战外星人小游戏
